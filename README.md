@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-# Date:
+# Date:24/09/2025
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -23,6 +23,122 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
+```
+map.html
+
+<html>
+<head>
+<title>My City</title>
+</head>
+<body>
+<h1 align="center">
+<font color="red"><b>mannargudi</b></font>
+</h1>
+<h3 align="center">
+<font color="blue"><b>kaviraj(25017431)</b></font>
+</h3>
+<center>
+<img src="img_map.png" usemap="#MyCity" height="610" width="1450">
+<map name="MyCity">
+<area shape="rect" coords="700,250,850,400" href="temple.html" title="My Home Town">
+<area shape="rect" coords="570,230,45" href="park.html" title="My Home Town">
+<area shape="rect" coords="640,200,30" href="town.html" title="My Home Town">
+</map>
+</center>
+</body>
+</html>
+
+temple.html
+
+<html>
+<head>
+<title>My Home Town</title>
+</head>
+<body bgcolor="yellow">
+<h1 align="center">
+<font color="red"><b>mannargudi</b></font>
+</h1>
+<h3 align="center">
+<p align="justify">
+<font color="blue"><b>big temple - The Tourists Attraction</b></font>
+</p>
+</h3>
+<p align="justify">
+<hr size="3" color="red">
+<font face="mannai" size="5">
+Mannargudi is a beautiful and historic town located in the Tiruvarur district of Tamil Nadu, India. It is famously known as the "Temple Town" because of its rich spiritual heritage. The town’s pride is the Rajagopalaswamy Temple, a massive and ancient Vaishnavite temple dedicated to Lord Krishna (Rajagopalaswamy). This temple attracts thousands of devotees every year, especially during festivals like Panguni Thiruvizha.
+Mannargudi is surrounded by lush green paddy fields, coconut groves, and small water canals, making it a peaceful and scenic place. Agriculture is the main occupation here, and the town is well-known for its rice cultivation.
+Culturally, Mannargudi has a deep connection with Carnatic music, Bharatanatyam dance, and Tamil traditions. The people are warm and friendly, and the town maintains a mix of tradition and simple modern lifestyle.
+It is also well-connected by road and rail, making it easy to travel to nearby towns like Thiruvarur, Thanjavur, and Kumbakonam.
+</font>
+</p>
+</body>
+</html>
+
+
+park.html
+
+<html>
+<head>
+<title>parks</title>
+</head>
+<body bgcolor="red">
+<h1 align="center">
+<font color="aqua"><b>mannargudi</b></font>
+</h1>
+<h3 align="center">
+<p align="justify">
+<font color="black"><b>PARK</b></font>
+</p>
+</h3>
+<p align="justify">
+<hr size="3" color="white">
+<font face="mannai" size="5">
+Mannargudi has a beautiful public park that is a favorite spot for families and children. The park has well-maintained walking paths, green lawns, and shady trees, making it a peaceful place for morning and evening walks. 
+There are play areas for kids with swings, slides, and benches for visitors to relax.
+Many people visit the park for jogging, yoga, and spending time with friends in the fresh air. 
+During weekends and evenings, the park becomes lively with families and children enjoying the open space. 
+It is one of the best places in the town for relaxation and recreation.
+</font>
+</p>
+</body>
+</html>
+
+
+town.html
+
+<html>
+<head>
+<title>Town</title>
+</head>
+<body bgcolor="hotpink">
+<h1 align="center">
+<font color="black"><b>mannargudi</b></font>
+</h1>
+<h3 align="center">
+<p align="justify">
+<font color="black"><b>TOWNS AND STORES</b></font>
+</p>
+</h3>
+<p align="justify">
+<hr size="3" color="black">
+<font face="mannai" size="5">
+Mannargudi has a lively town area with busy streets full of shops and small businesses. 
+You can find vegetable markets, grocery stores, textile shops, jewelry stores, and traditional sweet stalls. 
+There are also modern stores and supermarkets where people shop for daily needs. 
+The town area is always active, especially in the mornings and evenings, when people come to buy fresh vegetables and other goods.
+Mannargudi’s main streets are well-known for their festival decorations, especially during temple festivals, when the entire town lights up with colors and crowds. 
+It gives a perfect mix of traditional and modern lifestyle.
+</font>
+</p>
+</body>
+</html>
+
+```
 # OUTPUT
+![alt text](1..png)
+![alt text](2..png)
+![alt text](3..png)
+![alt text](4..png)
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
