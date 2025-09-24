@@ -135,10 +135,12 @@ It gives a perfect mix of traditional and modern lifestyle.
 </html>
 
 ```
+
 # OUTPUT
 ![alt text](1..png)
 ![alt text](2..png)
 ![alt text](3..png)
 ![alt text](4..png)
+
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
