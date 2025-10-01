@@ -134,6 +134,71 @@ It gives a perfect mix of traditional and modern lifestyle.
 </body>
 </html>
 
+
+village.html
+
+<html>
+<head>
+<title>parks</title>
+</head>
+<body bgcolor="green">
+<h1 align="center">
+<font color="maroon"><b>mannargudi</b></font>
+</h1>
+<h3 align="center">
+<p align="justify">
+<font color="white"><b>PARK</b></font>
+</p>
+</h3>
+<p align="justify">
+<hr size="3" color="white">
+<font face="mannai" size="5">
+Mannargudi is a well-known town in Tamil Nadu, famous for its temples, traditions, and natural surroundings. 
+The town is surrounded by green fields, groves, and small forest areas that make the environment peaceful and refreshing. 
+The forest regions near Mannargudi are home to different trees, birds, and animals, which help in keeping nature balanced. 
+They provide clean air, protect the land, and support farming by bringing good rainfall.
+The villages around Mannargudi are simple and beautiful, with people mostly engaged in agriculture. 
+Vast paddy fields, coconut trees, and canals can be seen across the village areas, giving a pleasant and traditional look. 
+The villagers live close to nature and depend on farming for their livelihood. Life in these villages is calm and friendly, where people help one another and celebrate festivals together. 
+The combination of forests, fields, and village life makes Mannargudi a unique place filled with both natural beauty and cultural richness.
+</font>
+</p>
+</body>
+</html>
+
+
+forest.html
+
+<html>
+<head>
+<title>parks</title>
+</head>
+<body bgcolor="purple">
+<h1 align="center">
+<font color="gray"><b>mannargudi</b></font>
+</h1>
+<h3 align="center">
+<p align="justify">
+<font color="black"><b>PARK</b></font>
+</p>
+</h3>
+<p align="justify">
+<hr size="3" color="white">
+<font face="mannai" size="5">
+Mannargudi is a beautiful town in Tamil Nadu, well known for its famous temples and cultural traditions, but it is also surrounded by greenery and natural landscapes.
+The forest areas and groves near Mannargudi add freshness to the town and make it a peaceful place to live. 
+These forests are home to different kinds of plants, trees, birds, and small animals, which play an important role in keeping the balance of nature. 
+They provide shade, cool the environment, and give us clean air to breathe. 
+Many local people depend on the forest for firewood, medicinal plants, and other natural resources. 
+During the rainy season, the greenery becomes even more attractive, creating a pleasant view for visitors and residents. 
+Forests around Mannargudi not only protect the land from soil erosion but also help bring good rainfall and support farming, which is the main occupation of the people. 
+Protecting these forest areas is very important because they are valuable for both nature and human life.
+</font>
+</p>
+</body>
+</html>
+
+
 ```
 
 # OUTPUT
@@ -141,6 +206,7 @@ It gives a perfect mix of traditional and modern lifestyle.
 ![alt text](2..png)
 ![alt text](3..png)
 ![alt text](4..png)
-
+![alt text](5..png)
+![alt text](6..png)
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
