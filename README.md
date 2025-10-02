@@ -26,6 +26,7 @@ Execute the programs and publish them.
 ```
 map.html
 
+
 <html>
 <head>
 <title>My City</title>
@@ -49,6 +50,7 @@ map.html
 </html>
 
 temple.html
+
 
 <html>
 <head>
@@ -77,6 +79,7 @@ It is also well-connected by road and rail, making it easy to travel to nearby t
 
 
 park.html
+
 
 <html>
 <head>
@@ -107,6 +110,7 @@ It is one of the best places in the town for relaxation and recreation.
 
 town.html
 
+
 <html>
 <head>
 <title>Town</title>
@@ -136,6 +140,7 @@ It gives a perfect mix of traditional and modern lifestyle.
 
 
 village.html
+
 
 <html>
 <head>
@@ -168,6 +173,7 @@ The combination of forests, fields, and village life makes Mannargudi a unique p
 
 
 forest.html
+
 
 <html>
 <head>
