@@ -26,10 +26,6 @@ Execute the programs and publish them.
 ```
 map.html
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 1a6099d0f6a352e1208c53136f6d4732c47b07cf
 <html>
 <head>
 <title>My City</title>
@@ -54,10 +50,6 @@ map.html
 
 temple.html
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 1a6099d0f6a352e1208c53136f6d4732c47b07cf
 <html>
 <head>
 <title>My Home Town</title>
@@ -86,10 +78,6 @@ It is also well-connected by road and rail, making it easy to travel to nearby t
 
 park.html
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 1a6099d0f6a352e1208c53136f6d4732c47b07cf
 <html>
 <head>
 <title>parks</title>
@@ -119,10 +107,6 @@ It is one of the best places in the town for relaxation and recreation.
 
 town.html
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 1a6099d0f6a352e1208c53136f6d4732c47b07cf
 <html>
 <head>
 <title>Town</title>
@@ -227,13 +211,5 @@ Protecting these forest areas is very important because they are valuable for bo
 ![alt text](4..png)
 ![alt text](5..png)
 ![alt text](6..png)
-=======
-```
-# OUTPUT
-<img width="1362" height="680" alt="1" src="https://github.com/user-attachments/assets/ae7a7739-fbd3-4006-882d-0b6fa2c5d2f2" />
-<img width="1031" height="603" alt="2" src="https://github.com/user-attachments/assets/0449ba9d-ad18-487a-a294-0e6893905e36" />
-<img width="1034" height="606" alt="3" src="https://github.com/user-attachments/assets/26529f8a-b780-4e44-bb98-0632a6116585" />
-<img width="1036" height="600" alt="4" src="https://github.com/user-attachments/assets/259c1c4a-5545-4511-a61a-383e475eac00" />
->>>>>>> 1a6099d0f6a352e1208c53136f6d4732c47b07cf
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
